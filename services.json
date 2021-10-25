@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/42QTh94/doctor-1.png",
+        "name": "Expert Doctor",
+        "description": "Lorem ipsum dolor sit amer, connecter nipissing elia, sed do elusion Suspendisse sed felis nisl. Proin ante quam, pretium quis massa a, posuere rhoncus risus. Praesent eget eros nec quam feugiat dignissim"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/5Y5CZ9d/health-check.png",
+        "name": "Diagnosis",
+        "description": "Lorem ipsum dolor sit amer, consecrator nipissing Eliz, sed do gismos Suspendisse sed felis nisl. Proin ante quam, pretium quis massa a, posuere rhoncus risus. Praesent eget eros nec quam feugiat dignissim"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/QKCdnCJ/chemical.png",
+        "name": "Pathology",
+        "description": "Lorem ipsum dolor sit Amen, connecter discing Eliz, sed do gismos Suspendisse sed felis nisl. Proin ante quam, pretium quis massa a, posuere rhoncus risus. Praesent eget eros nec quam feugiat dignissim"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/BgYt73b/teeth.png",
+        "name": "Dental Care",
+        "description": "Lorem ipsum dolor sit amer, consecrator nipissing elia, sed do elusion Suspendisse sed felis nisl. Proin ante quam, pretium quis massa a, posuere rhoncus risus. Praesent eget eros nec quam feugiat dignissim"
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/74rzgCG/heart.png",
+        "name": "Cardiology",
+        "description": "Lorem ipsum dolor sit amer, consecrator nipissing elia, sed do elusion Suspendisse sed felis nisl. Proin ante quam, pretium quis massa a, posuere rhoncus risus. Praesent eget eros nec quam feugiat dignissim"
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/KwN3rYF/drug.png",
+        "name": "Medicine",
+        "description": "Lorem ipsum dolor sit Amer, consecrator dehiscing Eliz, sed do gismos Suspendisse sed felis nisl. Proin ante quam, pretium quis massa a, posuere rhoncus risus. Praesent eget eros nec quam feugiat dignissim"
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co/C9BNH1F/scheme.png",
+        "name": "Neurology",
+        "description": "Lorem ipsum dolor sit amex, consecrator nipissing elia, sed do gismos Suspendisse sed felis nisl. Proin ante quam, pretium quis massa a, posuere rhoncus risus. Praesent eget eros nec quam feugiat dignissim"
+    },
+    {
+        "id": 8,
+        "img": "https://i.ibb.co/k8pM9bw/ambulance.png",
+        "name": "Ambulance",
+        "description": "Lorem ipsum dolor sit amer, consecrator nipissing elis, sed do gismos Suspendisse sed felis nisl. Proin ante quam, pretium quis massa a, posuere rhoncus risus. Praesent eget eros nec quam feugiat dignissim"
+    }
+]
